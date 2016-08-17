@@ -1,6 +1,5 @@
 # Archimedes' Bacon
-# Unpossib.ly-challenge-one:
-
+# Unpossib.ly Challenge No. 1:
 Measuring bodyweight using a smartphone.
 
 August 17, 2016
