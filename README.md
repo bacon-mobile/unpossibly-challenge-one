@@ -9,6 +9,8 @@ bacon.mobile@gmail.com
 
 uses CoronaSDK + Lua
 
+
+(code: main.lua links to _scenes/instruct.lua, calculate.lua and weight.lua)
 _build file is currently for Android
 
 
