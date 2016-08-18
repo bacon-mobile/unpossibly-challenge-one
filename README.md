@@ -4,14 +4,19 @@ Measuring bodyweight using a smartphone.
 
 
 August 17, 2016
-bacon.mobile@gmail.com
+by bacon.mobile
 
 
-uses CoronaSDK + Lua
+uses Corona SDK + Lua
 
 
-(code: main.lua links to _scenes/instruct.lua, calculate.lua and weight.lua)
-_build file is currently for Android
+code notes: main.lua links to _scenes/instruct.lua, calculate.lua and weight.lua
+
+_build file is currently for Android or you can download Corona SDK and use the simulator for a myriad of devices.
+
+
+
+• NÍ HÂO !! Do you like podcasts? Visit my friends GrandTheftAural.com
 
 
 
