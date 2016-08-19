@@ -21,4 +21,4 @@ _build file is currently for Android or you can download Corona SDK and use the 
 
 
 
-Graphics and Sounds C01
+Graphics and Sounds all CC0
