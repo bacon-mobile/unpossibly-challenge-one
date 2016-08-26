@@ -16,7 +16,7 @@ _build file is currently for Android or you can download Corona SDK and use the 
 
 
 
-• NÍ HÂO !! Do you like podcasts? Visit my friends GrandTheftAural.com
+• NÍ HÂO !! Do you like podcasts? Visit my friends http://GrandTheftAural.com/
 
 
 
